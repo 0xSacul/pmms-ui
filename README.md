@@ -29,14 +29,14 @@ This project replaces the interface of an existing PMMS resource. It is not a st
 
 ## Download and install
 
-When a release is published, download **pmms-ui.zip** from [Releases](https://github.com/0xSacul/pmms-ui/releases). Use this asset for installation; GitHub's source archives contain development files.
+Download **pmms-ui.zip** from [Releases](https://github.com/0xSacul/pmms-ui/releases). Use this asset for installation; GitHub's source archives contain development files.
 
 1. Install [PMMS and its dependencies](https://github.com/kibook/pmms#installing) and back up its `ui/` folder.
 2. Extract the ZIP and copy its four `ui/` files into PMMS's existing `ui/` folder.
 3. Keep the original PMMS libraries and assets. Add `"ui/locale.json"` to the existing `files` block in `fxmanifest.lua`.
 4. Restart PMMS and open it with `/pmms` or your configured command.
 
-The ZIP includes [installation instructions](INSTALL.md), English/French translations and license notices. Sources, screenshots, development dependencies and PMMS's own libraries are excluded. No release has been published during preparation.
+The ZIP includes [installation instructions](INSTALL.md), English/French translations and license notices. Sources, screenshots, development dependencies and PMMS's own libraries are excluded.
 
 ## Translation
 

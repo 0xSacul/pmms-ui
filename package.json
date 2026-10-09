@@ -1,7 +1,7 @@
 {
   "name": "pmms-ui",
   "private": true,
-  "version": "2.0.0",
+  "version": "1.0.0",
   "description": "A Svelte UI rework for the PMMS FiveM/RedM resource",
   "author": "0xSacul",
   "license": "SEE LICENSE IN LICENSE",
