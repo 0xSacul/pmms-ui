@@ -1,0 +1,103 @@
+{
+  "panel_title": "Lecteur Multimédia",
+  "close": "Fermer",
+  "select_player": "Choisir un lecteur...",
+  "url_placeholder": "Entrer l'URL du média...",
+  "loop": "Boucle",
+  "radio_filter": "Filtre radio",
+  "mute": "Muet",
+  "unmute": "Activer le son",
+  "lock": "Verrouiller",
+  "unlock": "Déverrouiller",
+  "video": "Vidéo",
+  "advanced_settings": "Paramètres avancés",
+  "play_btn": "Lancer",
+  "move": "Déplacer",
+  "resume": "Reprendre",
+  "pause": "Pause",
+  "stop": "Stop",
+  "next_in_queue": "Suivant dans la file",
+  "copy_url": "Copier l'URL",
+  "decrease_video_size": "Réduire la taille vidéo",
+  "increase_video_size": "Agrandir la taille vidéo",
+  "copy_to_player": "Copier vers le lecteur sélectionné",
+  "queue_label": "File",
+  "remove_from_queue": "Retirer de la file",
+  "url_copied": "URL copiée !",
+  "back": "Retour",
+  "adv_title": "Paramètres Avancés",
+  "section_playback": "Lecture",
+  "section_attenuation": "Atténuation",
+  "section_options": "Options",
+  "section_scaleform": "Scaleform",
+  "section_save": "Sauvegarde",
+  "tooltip_offset": {
+    "title": "Temps de début",
+    "body": [
+      "Temps à partir duquel le média démarrera.",
+      "En secondes (ex: `120`) ou hh:mm:ss (ex: `00:02:00`)."
+    ]
+  },
+  "tooltip_offset_short": "Début (hh:mm:ss)",
+  "tooltip_volume": "Volume (%)",
+  "tooltip_range": {
+    "title": "Portée",
+    "body": "Distance maximale (en mètres) à laquelle le lecteur est visible/audible."
+  },
+  "tooltip_range_short": "Portée (m)",
+  "tooltip_same_room": {
+    "title": "Atténuation (même pièce)",
+    "body": [
+      "Vitesse à laquelle le son s'affaiblit lorsqu'on s'éloigne dans la même pièce.",
+      "Une valeur de `0` signifie aucune diminution."
+    ]
+  },
+  "tooltip_diff_room": {
+    "title": "Atténuation (pièce différente)",
+    "body": [
+      "Vitesse à laquelle le son s'affaiblit lorsqu'on s'éloigne dans une autre pièce.",
+      "Une valeur de `0` signifie aucune diminution."
+    ]
+  },
+  "tooltip_diff_room_vol": {
+    "title": "Volume (pièce différente)",
+    "body": [
+      "Ratio par lequel le volume de base du lecteur est diminué lorsqu'on est dans une autre pièce.",
+      "Une valeur de `1` signifie que le volume reste le même."
+    ]
+  },
+  "tooltip_vehicle_mode": {
+    "title": "Mode véhicule",
+    "body": "Si activé, l'entité est un véhicule : l'intérieur compte comme la même pièce, l'extérieur comme différente."
+  },
+  "tooltip_enable_scaleform": {
+    "title": "Activer Scaleform",
+    "body": "Jouer le média sur un scaleform au lieu du render target d'un objet."
+  },
+  "tooltip_scaleform_name": "Nom du scaleform",
+  "tooltip_use_my_pos": "Utiliser ma position",
+  "tooltip_use_entity_pos": "Utiliser la position de l'entité",
+  "tooltip_attached": "Attaché à l'entité",
+  "video_size": "Taille vidéo",
+  "visualization": "Visualisation",
+  "no_visualization": "Aucune",
+  "scale_label": "Éch",
+  "tooltip_label": "Libellé",
+  "label_placeholder": "Libellé...",
+  "save_method_title": "Méthode de sauvegarde :",
+  "save_server_model": "Modèle serveur",
+  "save_server_entity": "Entité serveur",
+  "save_new": "Nouveau",
+  "new_model_title": "Nouveau modèle :",
+  "model_placeholder": "Modèle...",
+  "save_btn": "Sauvegarder",
+  "delete_by_title": "Supprimer par :",
+  "delete_model": "Modèle",
+  "delete_entity": "Entité",
+  "tooltip_save": "Sauvegarder",
+  "tooltip_delete": "Supprimer",
+  "tooltip_revert": "Réinitialiser les paramètres",
+  "tooltip_fix": "Réparer les lecteurs",
+  "tooltip_toggle_status": "Afficher/masquer la barre de statut",
+  "tooltip_restore_pos": "Réinitialiser la position de l'interface"
+}
